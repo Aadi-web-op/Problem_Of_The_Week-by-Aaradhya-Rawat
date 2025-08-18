@@ -37,10 +37,6 @@ Given an integer array `nums`, return `true` if the array can be partitioned int
 Input:  
 nums = [1, 5, 11, 5]
 
-markdown
-Copy
-Edit
-
 - `total = 22` → even 
 - `target = 11`  
 
